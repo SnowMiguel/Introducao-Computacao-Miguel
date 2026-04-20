@@ -1,6 +1,6 @@
 # Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
-## Nome(s) dos estudante(s): ________________________ e matrícula(s): ________________
+## Nome(s) dos estudante(s): Miguel Neves e matrícula(s): 22611825
 
 ## Objetivo
 Compreender a evolução das redes de computadores, identificar seus elementos básicos e classificar diferentes tipos de redes.
