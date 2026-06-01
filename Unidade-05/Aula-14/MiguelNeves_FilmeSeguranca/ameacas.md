@@ -15,6 +15,6 @@ No ecossistema de segurança, o risco é gerado quando uma **Ameaça** explora u
 | **Vulnerabilidade Humana** | Falta de treinamento de colaboradores, desatenção a políticas de senhas e compartilhamento desnecessário de dados (*oversharing*). | Engenharia social bem-sucedida, vazamento involuntário de dados corporativos e roubo de identidades. |
 | **Vulnerabilidade Técnica** | Sistemas operacionais e navegadores desatualizados (*patching* ausente), firewalls mal configurados e ausência de criptografia. | Infiltração por malwares explorando brechas conhecidas, interceptação de tráfego de rede e ataques de força bruta. |
 
-## 💥 Impactos Organizacionais e Sistêmicos
+## Impactos Organizacionais e Sistêmicos
 * **Financeiros:** Multas severas por descumprimento da LGPD, custos com remediação de incidentes e interrupção operacional.
 * **Reputacionais:** Perda imediata da confiança do cliente, desvalorização da marca no mercado e quebra de contratos de confidencialidade.
