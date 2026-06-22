@@ -78,3 +78,76 @@ A entrega deve ser realizada inserindo o arquivo gerado dentro do repositório d
 * **Formato do Arquivo:** Crie um arquivo no formato `.doc` com as suas respostas.
 * **Nomenclatura Obrigatória:** Nomeie o arquivo exatamente como `Atividade_DispositivosES_16-03.doc`.
 * **Local de Envio:** Faça o *commit* e *push* do arquivo no repositório da disciplina, obrigatoriamente dentro da pasta `Atividades/`.
+
+# Descrição do Trabalho em grupo: Sistemas Operacionais
+
+# Atividade Prática: Seminário de Sistemas Operacionais Modernos 🐧🪟🍏
+
+Este repositório contém as diretrizes, o modelo estrutural e o escopo para o seminário prático desenvolvido na disciplina de **Introdução à Computação** do curso de Engenharia de Software, sob a orientação da **Professora Kadidja Valéria**.
+
+---
+
+## 🎯 Objetivo do Trabalho
+
+A missão consiste em realizar uma investigação técnica aprofundada sobre um ecossistema de Sistema Operacional (SO) específico. O objetivo é analisar sua arquitetura, evolução e impacto no mercado sob a ótica de engenharia.
+
+---
+
+## 👥 Formato e Dinâmica
+
+* **Formação:** Grupos de 4 a 5 alunos.
+* **Tempo de Apresentação:** De 5 a 7 minutos por grupo (estilo *Pit Stop*, curto e direto).
+* **Referência Inicial:** Artigo da Alura e materiais de apoio recomendados.
+
+### 🗺️ Ecossistemas Alvos para Escolha
+Os grupos devem selecionar uma das seguintes vertentes para investigar:
+* Windows
+* Linux
+* macOS
+* Android
+* iOS
+* Unix
+
+---
+
+## 📋 Arquitetura e Roteiro da Apresentação (Gabarito Visual)
+
+A apresentação deve ser estruturada rigorosamente seguindo os 5 pilares do template do aluno:
+
+1. **Histórico e Evolução:** Mapeamento da linha do tempo, identificando o ano de criação, fundadores e a "versão marco" (aquela que mudou o rumo do sistema).
+2. **Arquitetura e Características:** Identificação do modelo de construção do núcleo (*kernel*) — Monolítico, Micronúcleo ou Híbrido —, além do nível de isolamento e segurança nativa.
+3. **Ecossistema e Dispositivos:** Definição dos segmentos onde o SO domina (Desktops, Smartphones, Servidores/Nuvem ou Embarcados) e a estimativa do seu *market share* atual.
+4. **Vantagens e Limitações:** Análise crítica de pontos como código aberto, facilidade de uso, fragmentação, custos de licença e barreiras de ecossistema (*lock-in*).
+5. **Casos de Uso Prático:** Exemplos reais de quem depende do SO para funcionar, divididos entre o Usuário Comum (gamers, estudantes) e o Mundo Corporativo (datacenters, hospitais, agências espaciais).
+
+---
+
+## 🧠 Rodada de Sabatina (Defesa Técnica)
+
+Após as apresentações, os grupos passarão por perguntas rápidas de prontidão para defender o ecossistema escolhido. Preparem-se para responder questionamentos como:
+* *"Qual é o maior gargalo técnico desse sistema hoje?"*
+* *"Por que um desenvolvedor escolheria este SO e não o concorrente direto?"*
+* *"Como esse sistema gerencia a segurança do usuário final?"*
+
+---
+
+## 📐 Critérios de Avaliação
+
+A banca avaliará o desempenho com base em quatro eixos principais:
+
+| Critério | Descrição |
+| :--- | :--- |
+| **Clareza** | Capacidade de traduzir conceitos complexos de hardware e software de forma simples. |
+| **Profundidade** | Ir além do básico (ir além da Wikipédia) e empregar termos técnicos de forma correta. |
+| **Organização** | Respeito ao tempo limite estabelecido e manutenção de uma linha lógica coerente. |
+| **Participação** | Colaboração mútua de todos os membros e domínio visível do tema por todo o grupo. |
+
+---
+
+## 📦 Entregável e Prazo
+
+Além da apresentação, há um componente individual obrigatório:
+
+* **O que entregar:** Resumo Individual de exatamente **1 página**.
+* **Conteúdo:** Destacar o Sistema Operacional estudado pelo seu respectivo grupo e sintetizar os principais aprendizados e reflexões da atividade.
+* **📅 Prazo:** Entrega na próxima semana.
