@@ -42,7 +42,7 @@ O relatório da investigação deve ser escrito em formato Markdown dentro do ar
 
 # Descrição para a atividade: Dispositivos de Entrada e Saída
 
-# Atividade: Dispositivos de Entrada e Saída (E/S)
+## Atividade: Dispositivos de Entrada e Saída (E/S)
 
 ## 🎯 Objetivo
 Compreender o papel dos dispositivos de entrada e saída em um sistema computacional e relacioná-los com situações práticas do cotidiano.
