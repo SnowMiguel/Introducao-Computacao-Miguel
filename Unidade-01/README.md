@@ -36,5 +36,5 @@ O resumo deve ser enviado através do fórum disponível na sala online até o d
 * **Formato do arquivo:** PDF ou Word.
 * **Tipo:** Trabalho estritamente individual.
 
-
+## OBSERVAÇÃO: O PDF produzido se encontra nesta mesma pasta do repositório
 
