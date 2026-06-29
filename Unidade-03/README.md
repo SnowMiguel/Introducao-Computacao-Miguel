@@ -172,3 +172,23 @@ graph TD
 
     V1 -.-> F1
     F1 -.-> P3
+```
+---
+
+## 📚 Referências
+
+Este projeto foi desenvolvido como parte do Desafio Individual da Aula 08 da disciplina de Introdução à Computação (Engenharia de Software - CEUB). A fundamentação técnica e teórica baseou-se nos seguintes materiais e tecnologias:
+
+### Materiais de Estudo (CEUB)
+* VALÉRIA, Kadidja. **Aula 08: Entendendo o Dado**. Disponível nos materiais da disciplina de Introdução à Computação, CEUB.
+* VALÉRIA, Kadidja. **Dados, Informação e Conhecimento**. Disponível nos materiais da disciplina de Introdução à Computação, CEUB.
+
+### Tecnologias e Conceitos Aplicados
+* **Apache Kafka:** *Distributed Event Streaming Platform*. Disponível em: [https://kafka.apache.org/](https://kafka.apache.org/).
+* **Apache Flink:** *Stateful Computations over Data Streams*. Disponível em: [https://flink.apache.org/](https://flink.apache.org/).
+* **InfluxDB:** *Time Series Platform*. Disponível em: [https://www.influxdata.com/](https://www.influxdata.com/).
+* **Mermaid.js:** *Diagramming and charting tool*. Disponível em: [https://mermaid.js.org/](https://mermaid.js.org/).
+* **Newton, Isaac.** *Lei do Resfriamento de Newton*. (Modelo matemático aplicado à termodinâmica de embalagens).
+
+---
+*Documentação gerada para fins acadêmicos - Desafio Individual Aula 08.*
